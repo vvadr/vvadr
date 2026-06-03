@@ -2,7 +2,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header" alt="header"/>
 </div>
 
-# Hi there 👋 I'm Abdulaziz [![GitHub followers](https://img.shields.io/github/followers/abdulazizyusupaliev?style=social)](https://github.com/abdulazizyusupaliev)
+# Hi there 👋 I'm Abdulaziz [![GitHub followers](https://img.shields.io/github/followers/abdulazizyusupaliev?style=social)](https://github.com/vvadr)
 
 ## 👨‍🎓 About Me
 
@@ -63,11 +63,11 @@
 <br>
 <div align="center">
 
-![abdulazizyusupaliev's Stats](https://github-readme-stats.vercel.app/api?username=abdulazizyusupaliev&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![abdulaziz's Stats](https://github-readme-stats.vercel.app/api?username=vvadr&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
-![abdulazizyusupaliev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulazizyusupaliev&theme=material-palenight&hide_border=true)
+![abdulaziz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvadr&theme=material-palenight&hide_border=true)
 
-![abdulazizyusupaliev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulazizyusupaliev&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![abdulaziz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvadr&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 </details>
 
 ## 🌱 Currently Learning
@@ -78,9 +78,9 @@
 | Project                          | Description                                                                              |
 |----------------------------------|------------------------------------------------------------------------------------------|
 | [dwelve](https://github.com/GradeFlowOrg/frontend)   | SaaS platform for schools and students and managing test, exams                                             |
-| [udevs-app](https://github.com/abdulazizyusupaliev/udevs-app)           | twitter-like web app for udevs academy      |
-| [udevs-app-backend](https://github.com/abdulazizyusupaliev/udevs-app-strapi-backend) | backend for udevs-app written in typescript                            |
-| [weather-app](https://github.com/abdulazizyusupaliev/weather-app-react) | weather app created using react                              |
+| [udevs-app](https://github.com/vvadr/udevs-app)           | twitter-like web app for udevs academy      |
+| [udevs-app-backend](https://github.com/vvadr/udevs-app-strapi-backend) | backend for udevs-app written in typescript                            |
+| [weather-app](https://github.com/vvadr/weather-app-react) | weather app created using react                              |
 
 ## 🌐 Socials:
 
