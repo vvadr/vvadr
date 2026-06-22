@@ -66,8 +66,6 @@
 ![abdulaziz's Stats](https://github-readme-stats.vercel.app/api?username=vvadr&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 
 ![abdulaziz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vvadr&theme=material-palenight&hide_border=true)
-
-![abdulaziz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vvadr&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 </details>
 
 ## 🌱 Currently Learning
