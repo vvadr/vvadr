@@ -84,38 +84,34 @@ Hi, I'm **Abdulaziz Yusupaliev**, a **Frontend Developer** and **AI & ML Enginee
       <ul>
         <li>Supervised Learning</li>
         <li>Regression</li>
-        <li>Classification</li>
-        <li>Clustering</li>
+        <li>Classification Basics</li>
+        <li>Clustering Basics</li>
         <li>Train / Test Split</li>
         <li>Data Leakage Awareness</li>
-        <li>Feature Engineering Basics</li>
+        <li>Basic Feature Engineering</li>
       </ul>
     </td>
     <td valign="top" width="25%">
       <h3>Models & Algorithms</h3>
       <ul>
         <li>Linear Regression</li>
-        <li>Logistic Regression</li>
+        <li>Logistic Regression Basics</li>
         <li>K-Means Clustering</li>
-        <li>Decision Tree Basics</li>
-        <li>Random Forest Basics</li>
         <li>Neural Networks Basics</li>
+        <li>PyTorch Basics</li>
       </ul>
     </td>
     <td valign="top" width="25%">
       <h3>Data Preprocessing</h3>
       <ul>
-        <li>Handling missing values</li>
-        <li>Data cleaning</li>
-        <li>Categorical encoding</li>
+        <li>Data Cleaning</li>
+        <li>Handling Missing Values</li>
+        <li>Categorical Encoding</li>
         <li>One-Hot Encoding</li>
-        <li><code>pd.get_dummies</code></li>
-        <li><code>OneHotEncoder</code></li>
-        <li>Feature scaling</li>
+        <li>Feature Scaling</li>
         <li><code>StandardScaler</code></li>
         <li><code>MinMaxScaler</code></li>
         <li><code>ColumnTransformer</code></li>
-        <li>scikit-learn <code>Pipeline</code></li>
       </ul>
     </td>
     <td valign="top" width="25%">
@@ -125,9 +121,7 @@ Hi, I'm **Abdulaziz Yusupaliev**, a **Frontend Developer** and **AI & ML Enginee
         <li>Mean Absolute Error, MAE</li>
         <li>R² Score</li>
         <li>Accuracy</li>
-        <li>Precision</li>
-        <li>Recall</li>
-        <li>Confusion Matrix</li>
+        <li>Basic Model Comparison</li>
       </ul>
     </td>
   </tr>
@@ -138,27 +132,26 @@ Hi, I'm **Abdulaziz Yusupaliev**, a **Frontend Developer** and **AI & ML Enginee
     <td valign="top" width="50%">
       <h3>ML Tools</h3>
       <ul>
+        <li>Python</li>
         <li>pandas</li>
         <li>NumPy</li>
         <li>Matplotlib</li>
         <li>Seaborn</li>
         <li>scikit-learn</li>
-        <li>PyTorch basics</li>
+        <li>PyTorch Basics</li>
         <li>Joblib</li>
         <li>Jupyter Notebook</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>AI / Deployment Basics</h3>
+      <h3>Workflow Skills</h3>
       <ul>
-        <li>Model saving and loading</li>
-        <li>Basic model deployment concepts</li>
-        <li>FastAPI basics</li>
-        <li>Docker basics</li>
-        <li>REST API basics</li>
-        <li>MLOps basics</li>
-        <li>NLP / LLM basics</li>
-        <li>Embeddings and RAG basics</li>
+        <li>scikit-learn Pipelines</li>
+        <li>Preprocessing Pipelines</li>
+        <li>Model Training</li>
+        <li>Model Evaluation</li>
+        <li>Model Saving and Loading</li>
+        <li>Basic ML Project Structure</li>
       </ul>
     </td>
   </tr>
