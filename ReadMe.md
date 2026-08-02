@@ -1,8 +1,8 @@
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Hi%20there,%20I'm%20Abdulaziz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" 
-    width="100%" 
-    alt="Header"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=135&section=header&text=Abdulaziz%20Yusupaliev&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+    alt="Abdulaziz Yusupaliev header"
   />
 </div>
 
@@ -13,213 +13,114 @@
   <img src="https://komarev.com/ghpvc/?username=vvadr&color=1E90FF&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
-<br />
-
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=AIMO+Medalist+%F0%9F%8F%85;Frontend+Developer;AI+%26+ML+Engineer;Building+Real-World+Products+%F0%9F%9A%80" 
-    alt="Typing SVG" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=900&color=1E90FF&center=true&vCenter=true&width=700&lines=AIMO+Medalist+%F0%9F%8F%85;Frontend+Developer;AI+%26+ML+Engineer;Building+Real-World+Products+%F0%9F%9A%80"
+    alt="Animated introduction"
   />
 </div>
 
----
+## 👋 About Me
 
-## 👨‍💻 About Me
+I'm **Abdulaziz**, a Frontend Developer and aspiring AI/ML Engineer focused on building useful, production-oriented products.
 
-Hi, I'm **Abdulaziz Yusupaliev**, a **Frontend Developer** and **AI & ML Engineer**. I enjoy building clean user interfaces, learning machine learning deeply, and turning ideas into real working products.
+* 🏅 National and international **AIMO medalist**
+* 🚀 Building my own startup
+* 💼 Experience working with **Delever.uz**
+* 🧠 Exploring machine learning, deep learning, NLP, and AI deployment
+* 📫 **[abdulazizyusupaliev009@gmail.com](mailto:abdulazizyusupaliev009@gmail.com)**
 
-- 🏅 National and international **AIMO** medalist
-- 💻 Frontend Developer focused on modern web applications
-- 🧠 Learning and building with **AI, Machine Learning, and Deep Learning**
-- 🚀 Currently building my own startup
-- 💼 Experience working with **Delever.uz**
-- 📊 Working with ML workflows using **pandas, scikit-learn, pipelines, preprocessing, and model evaluation**
-- 📫 Contact: **abdulazizyusupaliev009@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-### Languages
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py" alt="Languages" />
-</div>
-
-### Frontend Development
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Frontend tools" />
-</div>
-
-### Development Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,docker" alt="Development tools" />
-</div>
-
-### AI, Machine Learning & Data Science
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch_Basics-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
-![Joblib](https://img.shields.io/badge/Joblib-444444?style=for-the-badge)
-
-</div>
-
----
-
-## 🧠 AI / ML Skills
-
-<table>
-  <tr>
-    <td valign="top" width="25%">
-      <h3>Machine Learning Fundamentals</h3>
-      <ul>
-        <li>Supervised Learning</li>
-        <li>Regression</li>
-        <li>Classification Basics</li>
-        <li>Clustering Basics</li>
-        <li>Train / Test Split</li>
-        <li>Data Leakage Awareness</li>
-        <li>Basic Feature Engineering</li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <h3>Models & Algorithms</h3>
-      <ul>
-        <li>Linear Regression</li>
-        <li>Logistic Regression Basics</li>
-        <li>K-Means Clustering</li>
-        <li>Neural Networks Basics</li>
-        <li>PyTorch Basics</li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <h3>Data Preprocessing</h3>
-      <ul>
-        <li>Data Cleaning</li>
-        <li>Handling Missing Values</li>
-        <li>Categorical Encoding</li>
-        <li>One-Hot Encoding</li>
-        <li>Feature Scaling</li>
-        <li><code>StandardScaler</code></li>
-        <li><code>MinMaxScaler</code></li>
-        <li><code>ColumnTransformer</code></li>
-      </ul>
-    </td>
-    <td valign="top" width="25%">
-      <h3>Model Evaluation</h3>
-      <ul>
-        <li>Mean Squared Error, MSE</li>
-        <li>Mean Absolute Error, MAE</li>
-        <li>R² Score</li>
-        <li>Accuracy</li>
-        <li>Basic Model Comparison</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>ML Tools</h3>
-      <ul>
-        <li>Python</li>
-        <li>pandas</li>
-        <li>NumPy</li>
-        <li>Matplotlib</li>
-        <li>Seaborn</li>
-        <li>scikit-learn</li>
-        <li>PyTorch Basics</li>
-        <li>Joblib</li>
-        <li>Jupyter Notebook</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Workflow Skills</h3>
-      <ul>
-        <li>scikit-learn Pipelines</li>
-        <li>Preprocessing Pipelines</li>
-        <li>Model Training</li>
-        <li>Model Evaluation</li>
-        <li>Model Saving and Loading</li>
-        <li>Basic ML Project Structure</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔭 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Dwelve](https://github.com/GradeFlowOrg/frontend) | SaaS platform for schools and students to manage tests, exams, and education workflows | Next.js, TypeScript |
-| [udevs-app](https://github.com/vvadr/udevs-app) | Twitter-like web application built during Udevs Academy practice | React, TypeScript |
-| [udevs-app-backend](https://github.com/vvadr/udevs-app-strapi-backend) | Backend for the udevs-app project | Strapi, TypeScript |
-| [weather-app](https://github.com/vvadr/weather-app-react) | Weather application built with React and API integration | React, API |
-| Machine Learning Notebooks | Practice projects covering regression, classification, clustering, preprocessing, and evaluation | Python, pandas, scikit-learn |
-
----
-
-## 🌱 Currently Learning
-
-- Advanced scikit-learn workflows
-- Neural Networks with PyTorch
-- Deep Learning fundamentals
-- NLP and LLM applications
-- AI/ML model deployment
-- MLOps basics
-- Model monitoring and data drift
-- Building production-ready AI tools
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vvadr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=1E90FF&icon_color=1E90FF" 
-    height="165" 
-    alt="GitHub Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvadr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&title_color=1E90FF" 
-    height="165" 
-    alt="Top Languages" 
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,html,css,tailwind,bootstrap,git,github,gitlab,npm,docker,pytorch"
+    alt="Technology stack"
   />
 </div>
 
 <br />
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vvadr&theme=tokyonight&hide_border=true&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" 
-    alt="GitHub Streak" 
-  />
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square)
+![Joblib](https://img.shields.io/badge/Joblib-444444?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+
 </div>
+
+<details>
+  <summary><strong>🧠 AI & Machine Learning Skills</strong></summary>
+
+<br />
+
+| Area              | Skills                                                                                                    |
+| ----------------- | --------------------------------------------------------------------------------------------------------- |
+| **Fundamentals**  | Supervised learning, regression, classification, clustering, train/test splitting, data leakage awareness |
+| **Algorithms**    | Linear regression, logistic regression, K-Means, neural network fundamentals                              |
+| **Preprocessing** | Data cleaning, missing values, encoding, scaling, feature engineering                                     |
+| **scikit-learn**  | Pipelines, `ColumnTransformer`, `StandardScaler`, `MinMaxScaler`, model training                          |
+| **Evaluation**    | MSE, MAE, R², accuracy, model comparison                                                                  |
+| **Workflow**      | Experimentation, preprocessing pipelines, model persistence, project organization                         |
+| **Deep Learning** | PyTorch fundamentals and basic neural networks                                                            |
+
+</details>
+
+## 🚀 Featured Projects
+
+| Project                                                                    | Description                                                               | Stack               |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------- |
+| [**Dwelve**](https://github.com/GradeFlowOrg/frontend)                     | SaaS platform for managing school tests, exams, and educational workflows | Next.js, TypeScript |
+| [**udevs-app**](https://github.com/vvadr/udevs-app)                        | Twitter-inspired social application built during Udevs Academy            | React, TypeScript   |
+| [**udevs-app-backend**](https://github.com/vvadr/udevs-app-strapi-backend) | Strapi backend for the udevs-app project                                  | Strapi, TypeScript  |
+| [**weather-app**](https://github.com/vvadr/weather-app-react)              | Responsive weather application with API integration                       | React, REST API     |
+
+<details>
+  <summary><strong>🌱 What I'm Learning</strong></summary>
+
+<br />
+
+* Advanced scikit-learn workflows
+* Neural networks and deep learning with PyTorch
+* NLP and LLM applications
+* AI model deployment and MLOps
+* Model monitoring and data drift
+* Production-ready AI system design
+
+</details>
+
+<details>
+  <summary><strong>📊 GitHub Statistics</strong></summary>
 
 <br />
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=vvadr&theme=algolia&no-frame=true&row=1&column=6" 
-    alt="GitHub Trophies"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vvadr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=1E90FF&icon_color=1E90FF"
+    height="160"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvadr&theme=tokyonight&hide_border=true&layout=compact&title_color=1E90FF"
+    height="160"
+    alt="Most-used languages"
   />
 </div>
 
----
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vvadr&theme=tokyonight&hide_border=true&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF"
+    alt="GitHub contribution streak"
+  />
+</div>
 
-## 🌐 Connect With Me
+</details>
+
+## 🌐 Connect
 
 <div align="center">
   <a href="mailto:abdulazizyusupaliev009@gmail.com">
@@ -236,16 +137,16 @@ Hi, I'm **Abdulaziz Yusupaliev**, a **Frontend Developer** and **AI & ML Enginee
   </a>
 </div>
 
----
+<br />
 
 <div align="center">
-  <strong>Frontend Developer | AI & ML Engineer | Building Real-World Products</strong>
+  <strong>Frontend Development · Artificial Intelligence · Real-World Products</strong>
 </div>
 
 <div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=110&section=footer" 
-    width="100%" 
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=85&section=footer"
+    width="100%"
     alt="Footer"
   />
 </div>
